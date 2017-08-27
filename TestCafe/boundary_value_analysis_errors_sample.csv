@@ -1,0 +1,7 @@
+a, b, c, expected_result
+0, 20, 20, A must be greater than or equal
+20, 0, 30, B must be greater than or equal
+20, 20, 0, C must be greater than or equal
+50, 201, 50, B must be less than or equal
+201, 40, 40, A must be less than or equal
+30, 30, 201, C must be less than or equal

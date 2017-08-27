@@ -1,0 +1,6 @@
+a, b, c, expected_result
+2, 1, 1, Not a Triangle
+2, 1, 2, Isosceles
+2, 1, 199, Not a Triangle
+2, 2, 1, Isosceles
+2, 2, 2, Equilateral

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "csv-load-sync": "^1.0.0"
+  }
+}
